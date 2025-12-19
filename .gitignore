@@ -1,0 +1,3 @@
+scripts/*.pex
+temp/*
+package/*
